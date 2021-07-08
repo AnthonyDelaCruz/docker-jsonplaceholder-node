@@ -5,7 +5,9 @@ A dockerized basic node express server that returns data from [JSONplaceholder](
 ## Starting the application
 
  Clone this repo using 
-`git clone git@github.com:AnthonyDelaCruz/docker-jsonplaceholder-node.git`
+```
+git clone git@github.com:AnthonyDelaCruz/docker-jsonplaceholder-node.git
+```
 
 ### Running the development server using the docker container
 
